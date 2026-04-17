@@ -1,0 +1,8 @@
+site_name: horev
+site_description: Ein integriertes digitales Scriptorium.
+
+nav:
+  - Home: index.md
+
+theme:
+  name: readthedocs
